@@ -1,0 +1,8 @@
+{
+    "Education": ["Student", "Bachelor", "Engineer", "Master", "PhD", "Professor"],
+    "English": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "Experience": [0, 1, 2, 3, 4, 5, 6],
+    "Gender": ["Male", "Female"],
+    "Skill": ["Teamwork", "Office Information ", "Document Writing", "Problem Solving", "Project Manager"],
+    "Language": ["C", "CPlus", "Python", "Java", "Javascript", "Golang", "Solidity"]
+}
